@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/qcJCxIs.png" width="500">
 </h1>
 
-ReactJS app developed to make it easier to organize duties.
+ReactJS app developed to make it easier to organize duties.  
 You can check the app here: https://matheus-beck.github.io/react-todolist/ 
 
 # Front end: ReactJS app
