@@ -6,7 +6,7 @@ function ToDoItem({ item, onDelete }) {
     <li>
       {item}
       <button onClick={onDelete} type="button">
-        🗙
+        x
       </button>
     </li>
   );
