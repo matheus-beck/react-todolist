@@ -14,6 +14,7 @@ You can check the app here: https://matheus-beck.github.io/react-todolist/
 - "prop-types": "^15.7.2",
 - "react": "^16.12.0",
 - "react-dom": "^16.12.0"
+- "gh-pages": "^2.1.1",
 
 ## Getting started
 
